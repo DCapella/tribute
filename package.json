@@ -1,0 +1,27 @@
+{
+  "name": "tribute",
+  "version": "1.0.0",
+  "description": "A Front End Project that is a tribute to coffee. Espresso, specifically.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DCapella/tribute.git"
+  },
+  "author": "David Capella",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DCapella/tribute/issues"
+  },
+  "homepage": "https://github.com/DCapella/tribute#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.3"
+  }
+}

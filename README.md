@@ -11,6 +11,7 @@ line and type `npm start`.
 
 And extra stuff...
 
+* JavaScript
 * Bootstrap
 * NPM
     * path
